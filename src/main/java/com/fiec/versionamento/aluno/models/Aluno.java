@@ -19,4 +19,6 @@ public class Aluno {
     private String nome;
     private String curso;
     private int rm;
+    private String idMatricula;
+    private boolean matriculado = false;
 }
